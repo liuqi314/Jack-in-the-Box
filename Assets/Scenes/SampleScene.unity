@@ -5964,7 +5964,7 @@ PrefabInstance:
     - target: {fileID: -6722085885383957590, guid: 45e6e60050d88f6469fc3ca4fa4b787d,
         type: 3}
       propertyPath: m_Intensity
-      value: 5
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: -4587029663812805447, guid: 45e6e60050d88f6469fc3ca4fa4b787d,
         type: 3}
@@ -5984,17 +5984,17 @@ PrefabInstance:
     - target: {fileID: -4587029663812805447, guid: 45e6e60050d88f6469fc3ca4fa4b787d,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.82
+      value: -5.74
       objectReference: {fileID: 0}
     - target: {fileID: -4587029663812805447, guid: 45e6e60050d88f6469fc3ca4fa4b787d,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 7.09
+      value: 15.7
       objectReference: {fileID: 0}
     - target: {fileID: -4587029663812805447, guid: 45e6e60050d88f6469fc3ca4fa4b787d,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.98
+      value: 5.5
       objectReference: {fileID: 0}
     - target: {fileID: -4587029663812805447, guid: 45e6e60050d88f6469fc3ca4fa4b787d,
         type: 3}
@@ -6064,7 +6064,7 @@ PrefabInstance:
     - target: {fileID: -678217682645198054, guid: 45e6e60050d88f6469fc3ca4fa4b787d,
         type: 3}
       propertyPath: m_Range
-      value: 50
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: -678217682645198054, guid: 45e6e60050d88f6469fc3ca4fa4b787d,
         type: 3}
@@ -6074,17 +6074,17 @@ PrefabInstance:
     - target: {fileID: -678217682645198054, guid: 45e6e60050d88f6469fc3ca4fa4b787d,
         type: 3}
       propertyPath: m_Color.g
-      value: 0.07951468
+      value: 0.6861871
       objectReference: {fileID: 0}
     - target: {fileID: -678217682645198054, guid: 45e6e60050d88f6469fc3ca4fa4b787d,
         type: 3}
       propertyPath: m_Color.r
-      value: 0.43324995
+      value: 0.07843137
       objectReference: {fileID: 0}
     - target: {fileID: -678217682645198054, guid: 45e6e60050d88f6469fc3ca4fa4b787d,
         type: 3}
       propertyPath: m_Intensity
-      value: 300
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: -447275898630060098, guid: 45e6e60050d88f6469fc3ca4fa4b787d,
         type: 3}
